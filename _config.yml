@@ -23,13 +23,10 @@ repository: knightyun/knightyun.github.io
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/knightyun"
-user: "黄琦雲"
-user_email: ""
-# contact_url: "https://goo.gl/tVljbV"
-# google_tracking_id: "UA-96359860-1"
-# google_site_verification: "UA-96359860-1"
-# disqus_shortname: "黄琦雲"
+github_profile: "https://github.com/FZQA"
+user: "Yan Zhou"
+user_email: "913229100@qq.com"
+
 
 # Build settings
 markdown: kramdown
